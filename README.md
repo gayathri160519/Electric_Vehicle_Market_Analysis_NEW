@@ -54,7 +54,6 @@ The following preprocessing steps were performed:
 - Handled missing/null values.
 - Renamed columns for better readability.
 - Standardized categorical values.
-- Removed unnecessary columns.
 - Verified data types for numerical and categorical fields.
 Prepared a cleaned dataset for visualization and reporting.
 
