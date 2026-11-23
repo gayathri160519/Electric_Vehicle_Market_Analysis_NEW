@@ -2,15 +2,17 @@ ELECTRIC VEHICLE MARKET ANALYSIS
 *A concise, descriptive title for your analysis.*
 
 ## 📖 Table of Contents
-- [Project Overview](#-project-overview)
-- [Data Source](#-data-source)
-- [Tools & Technologies](#-tools--technologies)
-- [Data Cleaning & Preparation](#-data-cleaning--preparation)
-- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
-- [Key Insights](#-key-insights)
-- [Recommendations](#-recommendations)
-- [How to Use](#-how-to-use)
-
+- Project Overview
+Data Source
+Tools & Technologies Used
+Data Cleaning & Preparation
+Exploratory Data Analysis (EDA)
+Dashboard Development
+Key Insights
+Recommendations
+How to Use
+Project Structure
+Conclusion
 ## 📊 Project Overview
 Provide a high-level summary of the goals. What business problem were you trying to solve? For example: "Analyzing customer churn to identify high-risk segments and improve retention strategies."
 
