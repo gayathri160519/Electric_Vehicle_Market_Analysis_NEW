@@ -66,12 +66,12 @@ What were the main questions you explored?
 
 ## 💡 Key Insights
 
-Battery Electric Vehicles (BEVs) dominate the EV market compared to Plug-in Hybrid Electric Vehicles (PHEVs).
-Tesla is the leading manufacturer with the highest number of registered EVs.
-Electric vehicle adoption has increased significantly in recent years.
-Certain counties show higher EV concentration than others.
-Vehicles with greater electric range are becoming increasingly common.
-CAFV-eligible vehicles represent a large share of the dataset.
+Tesla is the leading EV manufacturer by registrations.
+BEVs significantly outnumber PHEVs.
+EV adoption has grown steadily in recent model years.
+A few counties account for the majority of EV registrations.
+Newer EV models generally offer higher electric ranges.
+CAFV-eligible vehicles represent a large share of the EV population.
 
 ## 🚀 Recommendations
 
