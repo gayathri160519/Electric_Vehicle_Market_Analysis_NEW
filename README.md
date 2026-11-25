@@ -156,11 +156,12 @@ Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX,
 ## ⚙️ How to Use
 
 - Download the project files.
+- Review the Python notebook for EDA and data preprocessing.
+- Access the cleaned EV dataset used for analysis.
 - Open the Power BI report (.pbix file).
-- Interact with dashboard filters and slicers.
-- Explore EV adoption trends, manufacturer performance, and geographic insights.
-- Review the Google Colab notebook for data cleaning and exploratory data analysis (EDA).
-
+- Explore the interactive dashboards using slicers and filters.
+- Analyze EV adoption, manufacturer performance, electric range, and geographic distribution insights.
+  
 ## ✅ Conclusion
 
 This project analyzed Electric Vehicle population data using Excel, Python, and Power BI. The analysis identified key trends in EV adoption, manufacturer performance, CAFV eligibility, and electric range. The findings highlight the continued growth of electric vehicles and the importance of data-driven insights for supporting sustainable transportation.
