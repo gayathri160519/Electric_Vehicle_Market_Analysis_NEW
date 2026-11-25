@@ -94,15 +94,17 @@ Developed two interactive Power BI dashboards featuring 12 visualizations to ana
 
 📊 Dashboard Preview
 
+Dashboard 1: EV Adoption & Market Overview
 
 <img width="1186" height="680" alt="13" src="https://github.com/user-attachments/assets/c3826994-82b1-4a3e-9497-a43a867411e4" />
 
+Dashboard 2: Geographic & Performance Insights
 
 <img width="1175" height="667" alt="14" src="https://github.com/user-attachments/assets/1c9849f6-311f-47af-b11d-ee28f520e5ac" />
 
 
 
-📐## DAX Calculations
+📐 DAX Calculations
 
 Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX, CALCULATE, SUMMARIZE, TOPN, MAXX, and VAR to generate KPI metrics and business insights, including:
 
