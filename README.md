@@ -1,4 +1,5 @@
 ELECTRIC VEHICLE MARKET ANALYSIS
+
 An end-to-end data analytics project that explores Electric Vehicle adoption trends, manufacturer performance, electric range distribution, and geographic patterns using Python and Power BI.
 
 ## 📖 Table of Contents
