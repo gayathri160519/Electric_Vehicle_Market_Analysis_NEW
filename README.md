@@ -164,5 +164,4 @@ Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX,
   
 ## ✅ Conclusion
 
-This project analyzed Electric Vehicle population data using Excel, Python, and Power BI. The analysis identified key trends in EV adoption, manufacturer performance, CAFV eligibility, and electric range. The findings highlight the continued growth of electric vehicles and the importance of data-driven insights for supporting sustainable transportation.
-
+The analysis reveals a growing preference for Battery Electric Vehicles, with Tesla leading market adoption. EV registrations have increased significantly over time, particularly in major counties. The findings demonstrate how data analytics and visualization tools can support understanding of EV market trends and sustainable transportation initiatives.
