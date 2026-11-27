@@ -20,10 +20,10 @@ An end-to-end data analytics project that explores Electric Vehicle adoption tre
 - [How to Use](#how-to-use)
 - [Conclusion](#conclusion)
   
-## 📊 Project Overview
+## Project Overview
 This project analyzes Electric Vehicle (EV) registration data to identify EV adoption trends, manufacturer performance, EV type distribution, electric range analysis, and geographic distribution across counties. The dataset was cleaned and analyzed using Python, and interactive Power BI dashboards were developed to uncover insights and support data-driven decision-making.
 
-## 🗂️ Data Source
+## Data Source
 Dataset: Electric Vehicle Population Data
 Source: Government Open Data Portals
 Dataset Size:
@@ -48,7 +48,7 @@ Key Variables:
 - 2020 GEOID
 - Electric Range Log
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies Used
 
 - Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
@@ -57,7 +57,7 @@ Key Variables:
 - Version Control: GitHub
 - Dataset Format: CSV
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 The following preprocessing steps were performed:
 
@@ -69,7 +69,7 @@ The following preprocessing steps were performed:
 - Created the Electric Range Log feature.
 - Performed data validation and consistency checks.
   
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Main Questions Explored
 - How has EV adoption changed across model years?
@@ -79,7 +79,7 @@ Main Questions Explored
 - How does electric range vary across manufacturers?
 - What proportion of vehicles are CAFV eligible?
 
-## 📈 Dashboard Development
+## Dashboard Development
 
 Developed two interactive Power BI dashboards featuring 12 visualizations to analyze:
 
@@ -94,20 +94,19 @@ Developed two interactive Power BI dashboards featuring 12 visualizations to ana
 - Detailed vehicle-level information through tabular reporting.
 - Interactive filtering with slicers for Model Year, EV Type, Make, County, City, Utility Provider, and CAFV Eligibility.
 
-📊 Dashboard Preview
+## Dashboard Preview
 
-Dashboard 1: EV Adoption & Market Overview
+### Dashboard 1 Screenshot
 
 <img width="1186" height="680" alt="13" src="https://github.com/user-attachments/assets/c3826994-82b1-4a3e-9497-a43a867411e4" />
 
-Dashboard 2: Geographic & Performance Insights
+### Dashboard 2 Screenshot
 
 <img width="1175" height="667" alt="14" src="https://github.com/user-attachments/assets/1c9849f6-311f-47af-b11d-ee28f520e5ac" />
 
 
 
-📐 DAX Calculations
-
+## DAX Calculations
 Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX, CALCULATE, SUMMARIZE, TOPN, MAXX, and VAR to generate KPI metrics and business insights, including:
 
 - Total EVs
@@ -123,7 +122,7 @@ Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX,
 - Top Manufacturer
 - Top EV County
 
-## 💡 Key Insights
+## Key Insights
 
 - Tesla is the leading EV manufacturer by registrations.
 - BEVs significantly outnumber PHEVs.
@@ -132,7 +131,7 @@ Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX,
 - Newer EV models generally offer higher electric ranges.
 - CAFV-eligible vehicles represent a large share of the EV population.
 
-## 🚀 Recommendations
+## Recommendations
 
 - Expand charging infrastructure in high-growth counties.
 - Promote EV adoption in low-registration regions through incentives.
@@ -140,7 +139,7 @@ Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX,
 - Support CAFV-eligible vehicle programs to accelerate clean-energy adoption.
 - Monitor county-level adoption trends for targeted policymaking.
 
-## 📁 Project Structure
+## Project Structure
 
 ├── data/
 │   ├── Raw_EV_Data.csv
@@ -153,7 +152,7 @@ Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX,
 │   └── Dashboard_Screenshots.png
 └── README.md
 
-## ⚙️ How to Use
+## How to Use
 
 - Download the project files.
 - Review the Python notebook for EDA and data preprocessing.
@@ -161,7 +160,7 @@ Created DAX measures using functions such as COUNT, DISTINCTCOUNT, AVERAGE, MAX,
 - Open the Power BI report (.pbix file).
 - Explore the interactive dashboards using slicers and filters.
 - Analyze EV adoption, manufacturer performance, electric range, and geographic distribution insights.
-  
-## ✅ Conclusion
+ 
+ ## Conclusion
 
 The analysis reveals a growing preference for Battery Electric Vehicles, with Tesla leading market adoption. EV registrations have increased significantly over time, particularly in major counties. The findings demonstrate how data analytics and visualization tools can support understanding of EV market trends and sustainable transportation initiatives.
