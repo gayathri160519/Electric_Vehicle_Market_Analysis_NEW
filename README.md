@@ -103,7 +103,7 @@ Developed two interactive Power BI dashboards featuring 12 visualizations to ana
 
 ### Dashboard 2 Screenshot
 
-<img width="1190" height="680" alt="New1" src="https://github.com/user-attachments/assets/88c8e9e6-0899-4267-b0bd-193cbfbf0218" />
+<img width="1162" height="665" alt="New2" src="https://github.com/user-attachments/assets/7db059da-18be-4785-befd-d705d306c935" />
 
 
 
