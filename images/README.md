@@ -1,9 +1,11 @@
 Project Dashboards
 
 
-<img width="1186" height="680" alt="EV Adoption   Market Overview" src="https://github.com/user-attachments/assets/40f1b565-35a5-4343-9e61-e8efc49e99a7" />
+<img width="1190" height="680" alt="New1" src="https://github.com/user-attachments/assets/d98346b2-e9af-4690-bd83-df0aff2bae06" />
 
 
 
-<img width="1175" height="667" alt="Geographic   Performance Insights" src="https://github.com/user-attachments/assets/9f779cc9-141f-48ac-90cf-9750ee06718d" />
+<img width="1162" height="665" alt="New2" src="https://github.com/user-attachments/assets/1053ba31-a0be-4e49-9017-8165da007c95" />
+
+
 
