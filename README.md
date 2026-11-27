@@ -2,23 +2,7 @@ ELECTRIC VEHICLE MARKET ANALYSIS
 
 An end-to-end data analytics project that explores Electric Vehicle adoption trends, manufacturer performance, electric range distribution, and geographic patterns using Python and Power BI.
 
-## 📖 Table of Contents
-
-- Project Overview
-- Data Source
-- Tools & Technologies Used
-- Data Cleaning & Preparation
-- Exploratory Data Analysis (EDA)
-- Dashboard Development
-- Dashboard Preview
-- Dashboard 1 Screenshot
-- Dashboard 2 Screenshot
-- DAX Calculations
-- Key Insights
-- Recommendations
-- Project Structure
-- How to Use
-- Conclusion
+<img width="1601" height="2268" alt="image" src="https://github.com/user-attachments/assets/51d8b4bf-9517-4ab0-ae76-ac2a651773f7" />
 
 ## 📊 Project Overview
 This project analyzes Electric Vehicle (EV) registration data to identify EV adoption trends, manufacturer performance, EV type distribution, electric range analysis, and geographic distribution across counties. The dataset was cleaned and analyzed using Python, and interactive Power BI dashboards were developed to uncover insights and support data-driven decision-making.
